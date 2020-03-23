@@ -1,0 +1,2 @@
+project-name: cw-app
+stack: docker.io/appsody/java-spring-boot2:0.3
